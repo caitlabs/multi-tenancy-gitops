@@ -45,7 +45,7 @@ spec:
             Https: "false"
             SeedUsers:
               usergroup: "users"
-              userlist: "user1,user2,user3,user4"
+              userlist: "user1,user2,user3,user4,user5,user6,user7,user8"
               initialPassword: "redhat"
 
           PhpLdapAdmin:
